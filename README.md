@@ -6,7 +6,7 @@ A visually stunning, fully responsive, and interactive photography website for *
 
 ## 🚀 Live Preview
 
-[🔗 View Live Site](https://algoonerd-photographystudio.vercel.app/)
+[🔗 View Live Site](https://algoonerd-webathonb.vercel.app/)
 
 ---
 
